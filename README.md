@@ -2,7 +2,7 @@
 
 I build systems. I break assumptions. I ship.
 
----
+
 
 ### What I Believe
 Software is a craft. The best engineers I know treat code like writing - they revise, they delete, they obsess over clarity. I've spent 14 years learning that the hardest problems aren't technical. They're about people, priorities, and knowing when to say no.
